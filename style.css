@@ -49,3 +49,8 @@ a#Home,a:hover{
      background-color: #9370db;
      transition: 1s;
 }
+main{
+      width: 100vh;
+      height: auto;
+      
+}
